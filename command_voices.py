@@ -1,0 +1,11 @@
+default_voices = ['Готово', 'Сделано', 'Выполнено', 'Готово, сэр', 'Сделано, сэр', 'Выполнено, сэр']
+
+hello_voices = ['Здравствуйте, сэр']
+hello_2_voices = ['Здарова']
+open_app_voices = ['Приложение открыто', 'Приложение открыто, сэр', 'Открыл']
+get_date_voices = ['Сегодня {day} {month}', '{day} {month}']
+get_time_voices = ["{hours} {hours_word} {minutes} {minutes_word}", "Сейчас {hours} {hours_word} {minutes} {minutes_word}", "На часах {hours} {hours_word} {minutes} {minutes_word}"]
+g4f_image_voices = ['Изображение сгенерировано', 'Изображение создано']
+create_note_voices = ['Заметка создана', 'Заметка готова']
+abstract_voice = ['Законспектировал', 'Конспект создан']
+search_google_voices = ['Открыл страницу', 'Запрос выполнен']
